@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-09-30T15:58:08.437Z</updated>
+  <updated>2020-10-01T10:53:40.128Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Newlife</title>
+    <link href="http://example.com/2020/10/01/Newlife/"/>
+    <id>http://example.com/2020/10/01/Newlife/</id>
+    <published>2020-10-01T10:23:25.000Z</published>
+    <updated>2020-10-01T10:53:40.128Z</updated>
+    
+    <content type="html"><![CDATA[<p>最终，在国庆节这天，完成了个人博客的建立，在此鸣谢Hunter提供的支持和帮助<br>#中秋节&amp;国庆节快乐！！！<br>祝愿每一位同学心想事成，成绩名列前茅！！！<br><img src="https://ww2.sinaimg.cn/bmiddle/9bd40f65ly1g6y3e3sfcxj20pp1cg0zi.jpg" alt="avatar"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;最终，在国庆节这天，完成了个人博客的建立，在此鸣谢Hunter提供的支持和帮助&lt;br&gt;#中秋节&amp;amp;国庆节快乐！！！&lt;br&gt;祝愿每一位同学心想事成，成绩名列前茅！！！&lt;br&gt;&lt;img src=&quot;https://ww2.sinaimg.cn/bmiddle/9bd40f6</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
